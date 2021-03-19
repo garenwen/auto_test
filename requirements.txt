@@ -7,7 +7,7 @@ Django==2.0
 Flask==0.12.2
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 parse==1.8.2
 parse-type==0.4.2
